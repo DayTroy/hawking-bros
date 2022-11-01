@@ -1,3 +1,4 @@
+//2.2
 async function lottery() {
     console.log("Вы начали игру");
     let promise = await new Promise(function (resolve, reject) {
